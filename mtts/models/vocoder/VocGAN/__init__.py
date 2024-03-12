@@ -1,1 +1,0 @@
-from .vocgan import VocGan
